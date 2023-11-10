@@ -1,8 +1,8 @@
-﻿using Identity.Local.Jwt.Models.Identity;
-using Identity.Local.Jwt.Services;
+﻿using Identity.Local.Schemes.Jwt.Models.Identity;
+using Identity.Local.Schemes.Jwt.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Identity.Local.Jwt.Controllers;
+namespace Identity.Local.Schemes.Jwt.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]

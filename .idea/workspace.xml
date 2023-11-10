@@ -5,39 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ff867d5-cd85-4277-b375-c7de456eef3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/local-simple-jwt-infrastructure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/identity.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Backend.Framework-LLA.Security/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Backend.Framework-LLA.Security/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Backend.Framework-LLA.Security/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Backend.Framework-LLA.Security/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend.Framework-LLA.Security.sln" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend.Framework-LLA.Security.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Identity.Cloud.AAD/Identity.Cloud.AAD.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Cloud.AAD/Identity.Cloud.AAD.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Identity.Cloud.AAD/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Cloud.AAD/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Identity.Cloud.AAD/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Cloud.AAD/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Identity.Cloud.AAD/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Cloud.AAD/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Configurations/HostConfiguration.Extensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Configurations/HostConfiguration.Extensions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Configurations/HostConfiguration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Configurations/HostConfiguration.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Controllers/AuthController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Controllers/AuthController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Identity.Local.Jwt.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Identity.Local.Jwt.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Models/Entities/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Models/Entities/User.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Models/Identity/SignInDetails.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Models/Identity/SignInDetails.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Models/Identity/SignUpDetails.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Models/Identity/SignUpDetails.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Services/AuthAggregationService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Services/AuthAggregationService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Services/IAuthAggregationService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Services/IAuthAggregationService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Services/IPasswordHasherService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Services/IPasswordHasherService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Services/ITokenGeneratorService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Services/ITokenGeneratorService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Services/PasswordHasherService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Services/PasswordHasherService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Services/TokenGeneratorService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Services/TokenGeneratorService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Settings/JwtAuthSettings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Settings/JwtAuthSettings.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Identity.Local.Schemes.Jwt/Configurations/HostConfiguration.Extensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Identity.Local.Schemes.Jwt/Configurations/HostConfiguration.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Identity.Local.Schemes.Jwt/Controllers/AuthController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Identity.Local.Schemes.Jwt/Identity.Local.Schemes.Jwt.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Identity.Local.Schemes.Jwt/Models/Entities/User.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Identity.Local.Schemes.Jwt/Models/Identity/SignInDetails.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Identity.Local.Schemes.Jwt/Models/Identity/SignUpDetails.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Identity.Local.Schemes.Jwt/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Identity.Local.Schemes.Jwt/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Identity.Local.Schemes.Jwt/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Identity.Local.Schemes.Jwt/Services/AuthAggregationService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Identity.Local.Schemes.Jwt/Services/IAuthAggregationService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Identity.Local.Schemes.Jwt/Services/IPasswordHasherService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Identity.Local.Schemes.Jwt/Services/ITokenGeneratorService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Identity.Local.Schemes.Jwt/Services/PasswordHasherService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Identity.Local.Schemes.Jwt/Services/TokenGeneratorService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Identity.Local.Schemes.Jwt/Settings/JwtAuthSettings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Identity.Local.Schemes.Jwt/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/identity.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/identity.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Backend.Framework-LLA.Security.sln" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend.Framework-LLA.Security.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identity.Local.Jwt/Configurations/HostConfiguration.Extensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identity.Local.Jwt/Configurations/HostConfiguration.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identity.Local.Jwt/Controllers/AuthController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identity.Local.Jwt/Identity.Local.Jwt.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identity.Local.Jwt/Models/Entities/User.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identity.Local.Jwt/Models/Identity/SignInDetails.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identity.Local.Jwt/Models/Identity/SignUpDetails.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identity.Local.Jwt/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identity.Local.Jwt/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identity.Local.Jwt/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identity.Local.Jwt/Services/AuthAggregationService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identity.Local.Jwt/Services/IAuthAggregationService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identity.Local.Jwt/Services/IPasswordHasherService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identity.Local.Jwt/Services/ITokenGeneratorService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identity.Local.Jwt/Services/PasswordHasherService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identity.Local.Jwt/Services/TokenGeneratorService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identity.Local.Jwt/Settings/JwtAuthSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identity.Local.Jwt/appsettings.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

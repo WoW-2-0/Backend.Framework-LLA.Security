@@ -1,13 +1,13 @@
 ﻿using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using Identity.Local.Jwt.Models;
-using Identity.Local.Jwt.Models.Entities;
-using Identity.Local.Jwt.Settings;
+using Identity.Local.Schemes.Jwt.Models;
+using Identity.Local.Schemes.Jwt.Models.Entities;
+using Identity.Local.Schemes.Jwt.Settings;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 
-namespace Identity.Local.Jwt.Services;
+namespace Identity.Local.Schemes.Jwt.Services;
 
 public class TokenGeneratorService : ITokenGeneratorService
 {

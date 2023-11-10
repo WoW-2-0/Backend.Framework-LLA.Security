@@ -1,4 +1,4 @@
-﻿namespace Identity.Local.Jwt.Models.Entities;
+﻿namespace Identity.Local.Schemes.Jwt.Models.Entities;
 
 public class User
 {

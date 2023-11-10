@@ -1,6 +1,6 @@
-﻿using Identity.Local.Jwt.Models.Identity;
+﻿using Identity.Local.Schemes.Jwt.Models.Identity;
 
-namespace Identity.Local.Jwt.Services;
+namespace Identity.Local.Schemes.Jwt.Services;
 
 public interface IAuthAggregationService
 {

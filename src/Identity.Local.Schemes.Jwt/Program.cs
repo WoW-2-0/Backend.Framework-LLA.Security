@@ -1,4 +1,4 @@
-using Identity.Local.Jwt.Configurations;
+using Identity.Local.Schemes.Jwt.Configurations;
 
 var builder = WebApplication.CreateBuilder(args);
 await builder.ConfigureAsync();

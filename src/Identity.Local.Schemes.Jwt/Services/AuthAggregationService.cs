@@ -1,8 +1,8 @@
 ﻿using System.Security.Authentication;
-using Identity.Local.Jwt.Models.Entities;
-using Identity.Local.Jwt.Models.Identity;
+using Identity.Local.Schemes.Jwt.Models.Entities;
+using Identity.Local.Schemes.Jwt.Models.Identity;
 
-namespace Identity.Local.Jwt.Services;
+namespace Identity.Local.Schemes.Jwt.Services;
 
 public class AuthAggregationService : IAuthAggregationService
 {

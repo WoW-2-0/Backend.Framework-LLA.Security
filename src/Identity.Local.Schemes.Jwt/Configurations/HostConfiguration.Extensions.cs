@@ -1,10 +1,10 @@
 ﻿using System.Text;
-using Identity.Local.Jwt.Services;
-using Identity.Local.Jwt.Settings;
+using Identity.Local.Schemes.Jwt.Services;
+using Identity.Local.Schemes.Jwt.Settings;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 
-namespace Identity.Local.Jwt.Configurations;
+namespace Identity.Local.Schemes.Jwt.Configurations;
 
 public static partial class HostConfiguration
 {

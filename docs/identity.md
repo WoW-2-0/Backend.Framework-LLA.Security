@@ -42,9 +42,6 @@ You can find more information in this documentation - [link](https://sultonbek-r
 
 ## Local Identity
 
-- Simple authentication with JWT
--
-
 
 ## Cloud Identity
 
@@ -107,7 +104,7 @@ You can find more information in this documentation - [link](https://sultonbek-r
 
 
 
-- [Simple JWT Authentication](../src/Identity.Local.Jwt/README.md)
+- [Simple JWT Authentication](../src/Identity.Local.Schemes.Jwt/README.md)
 
 
 

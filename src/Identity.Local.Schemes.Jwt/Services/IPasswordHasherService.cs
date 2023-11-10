@@ -1,4 +1,4 @@
-﻿namespace Identity.Local.Jwt.Services;
+﻿namespace Identity.Local.Schemes.Jwt.Services;
 
 public interface IPasswordHasherService
 {

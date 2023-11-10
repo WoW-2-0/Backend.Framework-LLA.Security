@@ -1,4 +1,4 @@
-﻿namespace Identity.Local.Jwt.Services;
+﻿namespace Identity.Local.Schemes.Jwt.Services;
 using BC = BCrypt.Net.BCrypt;
 
 public class PasswordHasherService : IPasswordHasherService

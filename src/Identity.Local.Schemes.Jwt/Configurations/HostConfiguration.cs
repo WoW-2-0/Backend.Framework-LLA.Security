@@ -1,4 +1,4 @@
-﻿namespace Identity.Local.Jwt.Configurations;
+﻿namespace Identity.Local.Schemes.Jwt.Configurations;
 
 public static partial class HostConfiguration
 {

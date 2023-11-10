@@ -1,4 +1,4 @@
-﻿namespace Identity.Local.Jwt.Models.Identity;
+﻿namespace Identity.Local.Schemes.Jwt.Models.Identity;
 
 public class SignInDetails
 {

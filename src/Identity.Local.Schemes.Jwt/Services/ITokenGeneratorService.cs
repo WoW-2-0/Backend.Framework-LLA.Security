@@ -1,9 +1,9 @@
 ﻿using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
-using Identity.Local.Jwt.Models;
-using Identity.Local.Jwt.Models.Entities;
+using Identity.Local.Schemes.Jwt.Models;
+using Identity.Local.Schemes.Jwt.Models.Entities;
 
-namespace Identity.Local.Jwt.Services;
+namespace Identity.Local.Schemes.Jwt.Services;
 
 public interface ITokenGeneratorService
 {

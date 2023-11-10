@@ -1,4 +1,4 @@
-﻿namespace Identity.Local.Jwt.Settings;
+﻿namespace Identity.Local.Schemes.Jwt.Settings;
 
 public class JwtAuthSettings    
 {
