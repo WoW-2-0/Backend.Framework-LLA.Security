@@ -6,8 +6,9 @@ using Microsoft.Identity.Web;
 var builder = WebApplication.CreateBuilder(args);
 builder.Configuration.AddUserSecrets<Program>();
 
+
 builder.Services.AddAuthentication(OpenIdConnectDefaults.AuthenticationScheme)
-    .AddMicrosoftIdentityWebApp(options => builder.Configuration.Bind("AzureAd", options));
+     .AddMicrosoftIdentityWebApp(options => builder.Configuration.Bind("AzureAd", options));
 
 builder.Services.AddControllers(options =>
 {

@@ -475,3 +475,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+## write gitignore for jegbrains idea and sonarcloud files
+.idea/
