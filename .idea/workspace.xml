@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ff867d5-cd85-4277-b375-c7de456eef3f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/local-simple-jwt-infrastructure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/identity.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Backend.Framework-LLA.Security/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Backend.Framework-LLA.Security/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Backend.Framework-LLA.Security/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Backend.Framework-LLA.Security/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend.Framework-LLA.Security.sln" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend.Framework-LLA.Security.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Identity.Cloud.AAD/Identity.Cloud.AAD.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Cloud.AAD/Identity.Cloud.AAD.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Identity.Cloud.AAD/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Cloud.AAD/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Identity.Cloud.AAD/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Cloud.AAD/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Identity.Cloud.AAD/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Cloud.AAD/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Configurations/HostConfiguration.Extensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Configurations/HostConfiguration.Extensions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Configurations/HostConfiguration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Configurations/HostConfiguration.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Controllers/AuthController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Controllers/AuthController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Identity.Local.Jwt.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Identity.Local.Jwt.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Models/Entities/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Models/Entities/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Models/Identity/SignInDetails.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Models/Identity/SignInDetails.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Models/Identity/SignUpDetails.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Models/Identity/SignUpDetails.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Services/AuthAggregationService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Services/AuthAggregationService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Services/IAuthAggregationService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Services/IAuthAggregationService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Services/IPasswordHasherService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Services/IPasswordHasherService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Services/ITokenGeneratorService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Services/ITokenGeneratorService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Services/PasswordHasherService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Services/PasswordHasherService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Services/TokenGeneratorService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Services/TokenGeneratorService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/Settings/JwtAuthSettings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/Settings/JwtAuthSettings.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Identity.Local.Jwt/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identity.Local.Jwt/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2XyHKyhvmY8pDe9L7PyBNu3IWMr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
