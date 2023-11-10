@@ -14,6 +14,12 @@ public static partial class HostConfiguration
         // register db contexts
         builder.Services.AddDbContext<IdentityDbContext>(options =>
             options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+        
+        // register repositories
+        builder.Services.AddScoped<IUserRepository, UserRepository>();
+        
+        // register foundation data access services
+        builder.Services.AddScoped<IUserService, UserService>();
 
         return builder;
     }
